@@ -3,72 +3,12 @@
     {
       "id": 11,
       "bgcolor": "#3f51b5",
-      "name": "xxxx",
-      "title": "xxxx",
+      "name": "pycon",
+      "title": "11月15日",
 	  
-      "avatar": "images/speakers/lsf.jpg",
-      "desc_speaker": "xxxxxxxxxx",
-      "desc_content": "xxxxxxxxxxxx。"
-    },
-    {
-      "id": 12,
-      "bgcolor": "#03a9f4",
-      "name": "xxxx",
-      "title": "xxxxx",
-	  
-      "avatar": "images/speakers/unbug.jpg",
-      "desc_speaker": "xxxxxx",
-      "desc_content": "xxxxxxxxxxx"
-    },
-    {
-      "id": -1,
-      "bgcolor": "#33691e",
-      "name": "xxxx",
-      "title": "xxxx",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": "xxxx"
-    },
-    {
-      "id": -1,
-      "bgcolor": "#7e57c2",
-      "name": "xxxxx",
-      "title": "xxxxxx",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": "xxxxxx"
-    },
-    {
-      "id": -1,
-      "bgcolor": "#78909c",
-      "name": "",
-      "title": "xx",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": "xxxxx"
-    },
-    {
-      "id": -1,
-      "bgcolor": "#78909c",
-      "name": "",
-      "title": "x",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": "xxxxxx"
-    },
-    {
-      "id": -1,
-      "bgcolor": "#78909c",
-      "name": "",
-      "title": "x",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": "xxxxxx"
+      "avatar": "images/logo/pycon.jpg",
+      
+      "desc_content": "敬请关注"
     }
   ],
   
@@ -76,105 +16,44 @@
     {
       "id": 1,
       "bgcolor": "#7e57c2",
-      "name": "xxxxxx",
-      "title": "x",
+      "name": "宣鹏",
+      "title": "Google带您走入Android Wear的世界",
 	  
-      "avatar": "images/speakers/nova.jpg",
-      "desc_speaker": "xxxxxxx",
-      "desc_content": "ssssss"
+      "avatar": "images/speakers/.jpg",
+      "desc_speaker": "宣鹏",
+      "desc_content": "Google带您走入Android Wear的世界"
     },
     {
       "id": 4,
       "bgcolor": "#009688",
-      "name": "xxxxxxx",
-      "title": "xxxxxxx",
+      "name": "齐伟",
+      "title": "Google的设计冲刺",
 	  
-      "avatar": "images/speakers/duguguiyu.png",
-      "desc_speaker": "xxxxxxxx",
-      "desc_content": "xxxxxxxxxx"
+      "avatar": "images/speakers/photo_laoqi.jpg",
+      "desc_speaker": "齐伟",
+      "desc_content": "Google的设计冲刺"
     },
     {
       "id": 3,
       "bgcolor": "#5677fc",
-      "name": "xxxxxxx",
-      "title": "xxxxxxxxxxx",
+      "name": "李实",
+      "title": "GDG介绍",
 	  
-      "avatar": "images/speakers/xm.jpg",
-      "desc_speaker": "xxxxxxxxxxx",
-      "desc_content": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-    },
-    {
-      "id": 2,
-      "bgcolor": "#29b6f6",
-      "name": "xxxxxxxxxxx",
-      "title": "xxxxxxxxxxx",
-	  
-      "avatar": "images/speakers/zhaoka.jpg",
-      "desc_speaker": "xxxxxxxxxxx",
-      "desc_content": "xxxxxxxxxxx"
-    },
-    {
-      "id": 5,
-      "bgcolor": "#3f51b5",
-      "name": "xxxxxxxxxxx",
-      "title": "xxxxxxxxxxx",
-	  
-      "avatar": "images/speakers/dpf.jpg",
-      "desc_speaker": "xxxxxxxxxxx",
-      "desc_content": "xxxxxxxxxxx"
-    },
-    {
-      "id": 6,
-      "bgcolor": "#795548",
-      "name": "xxxxxxxxxxx",
-      "title": "xxxxxxxxxxx",
-	  
-      "avatar": "images/speakers/RoundTable.png",
-      "desc_speaker": "xxxxxxxxxxxxxxxxxxxxxx",
-      "desc_content": "xxxxxxxxxxxxxxxxxxxxxx"
-    },
-    {
-      "id": -1,
-      "bgcolor": "#78909c",
-      "name": "",
-      "title": "xxxxxxxxxxx",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": "xxxxxxxxxxx"
+      "avatar": "images/speakers/lishi.png",
+      "desc_speaker": "李实",
+      "desc_content": "GDG介绍"
     }
-  ],  
-
+  ],
   "codelab": [
     {
       "id": 21,
       "bgcolor": "#03a9f4",
-      "name": "xxxxxxxxxxx",
-      "title": "xxxxxxxxxxx",
+      "name": "Polymer",
+      "title": "11月29日",
 	  
-      "avatar": "images/speakers/unbug.jpg",
-      "desc_speaker": "xxxxxxxxxxx",
-      "desc_content": "xxxxxxxxxxxxxxxxxxxxxx"
-    },
-    {
-      "id": 22,
-      "bgcolor": "#8bc34a",
-      "name": "xxxxxxxxxxx",
-      "title": "xxxxxxxxxxx",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": "xxxxxxxxxxx"
-    },
-    {
-      "id": -1,
-      "bgcolor": "#78909c",
-      "name": "",
-      "title": "xxxxxxxxxxx",
-	  
-      "avatar": "images/speakers/placeholder.jpg",
-      "desc_speaker": "",
-      "desc_content": ""
+      "avatar": "images/logo/polymer.jpg",
+      
+      "desc_content": "敬请关注"
     }   
   ]
   
