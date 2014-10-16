@@ -27,20 +27,20 @@
       "id": 4,
       "bgcolor": "#009688",
       "name": "齐伟",
-      "title": "Google的设计冲刺",
+      "title": "喜欢软件，热衷编程，痴迷python，积极参与GDG活动。",
 	  
       "avatar": "images/speakers/photo_laoqi.jpg",
-      "desc_speaker": "齐伟",
-      "desc_content": "Google的设计冲刺"
+      "desc_speaker": "Google的设计冲刺",
+      "desc_content": "design sprint是谷歌的设计理念和方法，并且已经在google的诸多项目中实施。design sprint的到底是什么？如何实施？能够达成什么目标？本次演讲将一一做以详细介绍。"
     },
     {
       "id": 3,
       "bgcolor": "#5677fc",
       "name": "李实",
-      "title": "GDG介绍",
+      "title": "programmer/ gdg volunteer",
 	  
       "avatar": "images/speakers/lishi.png",
-      "desc_speaker": "李实",
+      "desc_speaker": "GDG介绍",
       "desc_content": "GDG介绍"
     }
   ],
