@@ -19,28 +19,28 @@
       "name": "宣鹏",
       "title": "Google带您走入Android Wear的世界",
 	  
-      "avatar": "images/speakers/.jpg",
-      "desc_speaker": "宣鹏",
-      "desc_content": "Google带您走入Android Wear的世界"
+      "avatar": "images/speakers/XuanPeng.jpg",
+      "desc_speaker": "英文名：Andy。一位移动端开发者，从事移动端开发多年，比较熟悉iOS、Hybrid项目开发，Android有一定了解，对新鲜事物有浓厚的兴趣。现就职于苏州雪客有限公司，主要负责移动端项目开发工作。",
+      "desc_content": "这次的演讲简介：对Android Wear的介绍，大家一起来看看Android Wear到底是什么？了解Android Wear的用户界面与一些设计技巧。最后一起来看看Android Wear SDK提供了什么？"
     },
     {
       "id": 4,
       "bgcolor": "#009688",
       "name": "齐伟",
-      "title": "喜欢软件，热衷编程，痴迷python，积极参与GDG活动。",
+      "title": "Google的设计冲刺",
 	  
       "avatar": "images/speakers/photo_laoqi.jpg",
-      "desc_speaker": "Google的设计冲刺",
+      "desc_speaker": "喜欢软件，热衷编程，痴迷python，积极参与GDG活动。",
       "desc_content": "design sprint是谷歌的设计理念和方法，并且已经在google的诸多项目中实施。design sprint的到底是什么？如何实施？能够达成什么目标？本次演讲将一一做以详细介绍。"
     },
     {
       "id": 3,
       "bgcolor": "#5677fc",
       "name": "李实",
-      "title": "programmer/ gdg volunteer",
+      "title": "GDG介绍",
 	  
       "avatar": "images/speakers/lishi.png",
-      "desc_speaker": "GDG介绍",
+      "desc_speaker": "programmer/ gdg volunteer",
       "desc_content": "GDG介绍"
     }
   ],
